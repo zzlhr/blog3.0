@@ -1,0 +1,12 @@
+/*
+	div加灰色背景色
+ */
+.blog-div-bg-gray{
+	background-color: #ADADAD !important;
+}
+.blog-li-text15{
+	width: 200px;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+}
